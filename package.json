@@ -1,0 +1,26 @@
+{
+  "name": "protractorautomation",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddharth0701/ProtractorAutomation.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Siddharth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siddharth0701/ProtractorAutomation/issues"
+  },
+  "homepage": "https://github.com/Siddharth0701/ProtractorAutomation#readme",
+  "dependencies": {
+    "@types/jasmine": "^3.10.1",
+    "protractor": "^7.0.0"
+  }
+}
